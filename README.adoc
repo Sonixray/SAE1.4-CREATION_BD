@@ -4,7 +4,9 @@
 
 === Qu'est-ce qu'une SAÉ ?
 
-=== Le client
+Une SAÉ (situation d'apprentissage et d'évaluation) est un projet en groupe (en général de 2-4 personnes) réalisé dans le cadre d'une formation en BUT Informatique. Un sujet avec une problématique nous est donné, et grâce à nos connaissances acquises en cours et en travaillant en équipe un rendu est demandé.
+
+=== Le sujet
 
 === Le besoin
 
